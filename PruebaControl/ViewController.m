@@ -20,6 +20,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"this is a new line code");
+    
+    NSLog(@"second  new line code");    
 }
 
 - (void)didReceiveMemoryWarning
