@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"this is a new line code")
+    NSLog(@"this is a new line code");
 }
 
 - (void)didReceiveMemoryWarning
