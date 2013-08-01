@@ -21,7 +21,9 @@
     
     NSLog(@"this is a new line code");
     
-    NSLog(@"second  new line code");    
+    NSLog(@"second  new line code");
+    
+    NSLog(@"third  new line code");        
 }
 
 - (void)didReceiveMemoryWarning
